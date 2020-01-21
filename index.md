@@ -8,9 +8,10 @@
 [QQ](tencent://message/?uin=30024167&Site=github&Menu=yes)
 
 ### 开源项目
-
+```
 自己业余写的一些代码，禁止用于商业用途
-
+喜欢的话，请支持一下
+```
 
 名称 | 语言 | 框架 | 描述
 ---|---|---|---
@@ -19,8 +20,8 @@
 [fair](https://github.com/chenbool/fair)  | php |  |一个mvc框架,依靠composer加载 
 [云矿机](https://github.com/chenbool/phalcon_kuang)  | php | phalcon | phalcon框架 + redis
 [微交易](https://github.com/chenbool/phalcon_wei)  | php | phalcon | phalcon + Node.Js+mysql+redis+mogondb
-[货币汇率采](https://github.com/chenbool/currency_api)  | php | wokerman | 货币汇率采集api, redis+wokerman
-[微交易系统](https://github.com/chenbool/wepay)  | vue | wokerman |微交易系统-货币汇率采集, redis+wokerman+vue
+[货币汇率](https://github.com/chenbool/currency_api)  | php | wokerman | 货币汇率采集api, redis+wokerman
+[微交易](https://github.com/chenbool/wepay)  | vue | wokerman |微交易系统-货币汇率采集, redis+wokerman+vue
 [facebook](https://github.com/chenbool/tp5_facebook)  | php | thinkphp5 |一个高仿Facebook站点
 [租房app](https://github.com/chenbool/zufang)  | php | thinkphp5 | thinkphp5写的一个house，webapp
 [21point](https://github.com/chenbool/21point)  | TypeScript | layabox | 经典21点游戏源码 typeScript layabox
