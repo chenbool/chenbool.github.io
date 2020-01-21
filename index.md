@@ -16,6 +16,8 @@
 名称 | 语言 | 框架 | 描述
 ---|---|---|---
 [仿抖音](https://github.com/bool1993/small)  | vue | uniapp | uniapp仿抖音
+[进销存](https://gitee.com/bool_it/xenon-wms)  | php | tp5.1 | wms仓库管理系统
+[民宿管理](https://gitee.com/HyacinthTechnology_admin/Hotel)  | php | tp5.1 | 民宿管理
 [开奖信息](https://github.com/chenbool/python-cp)  | python | bs4 | python抓取彩票开奖信息 
 [云签到](https://github.com/chenbool/yun-sign)  | python | flask | qq 云签到平台 php+python
 [selenium脚本](https://github.com/chenbool/python-selenium)  | python | selenium | Python 实现 百度贴吧 签到  QQ空间 签到  饿了么 优惠券  美团外卖 优惠券  OFO 优惠券
@@ -34,11 +36,9 @@
 
 
 
-## [更多项目](https://github.com/chenbool?tab=repositories) 
-
+### [更多项目](https://github.com/chenbool?tab=repositories) 
 
 
 ### 联系方式
 
 QQ：[30024167](https://github.com/chenbool) 
-
