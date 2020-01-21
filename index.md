@@ -5,13 +5,15 @@
 [开源中国](https://my.oschina.net/sloan521/blog) |
 [码云](https://gitee.com/sloan1993/) |
 [码云2](https://gitee.com/chenbool) |
+[B站](https://www.bilibili.com/video/av84293062) |
 [QQ](tencent://message/?uin=30024167&Site=github&Menu=yes)
 
 ### 开源项目
 ```
 自己业余写的一些代码，禁止用于商业用途
-喜欢的话，请支持一下
+喜欢的话，请支持我的B站教程一下
 ```
+
 ---
 
 名称 | 语言 | 框架 | 描述
