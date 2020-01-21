@@ -15,6 +15,9 @@
 
 名称 | 语言 | 框架 | 描述
 ---|---|---|---
+[仿抖音](https://github.com/bool1993/small)  | vue | uniapp | uniapp仿抖音
+[开奖信息](https://github.com/chenbool/python-cp)  | python | bs4 | python抓取彩票开奖信息 
+[云签到](https://github.com/chenbool/yun-sign)  | python | flask | qq 云签到平台 php+python
 [selenium脚本](https://github.com/chenbool/python-selenium)  | python | selenium | Python 实现 百度贴吧 签到  QQ空间 签到  饿了么 优惠券  美团外卖 优惠券  OFO 优惠券
 [small](https://github.com/chenbool/small)  | php | | 一个轻量的mvc框架
 [fair](https://github.com/chenbool/fair)  | php |  |一个mvc框架,依靠composer加载 
