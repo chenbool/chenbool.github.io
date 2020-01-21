@@ -16,9 +16,9 @@
 ---|---|---|---
 [small](https://github.com/chenbool/small)  | php | | 一个轻量的mvc框架
 [fair](https://github.com/chenbool/fair)  | php |  |一个mvc框架,依靠composer加载 
-[currency](https://github.com/chenbool/currency-api)  | php | wokerman | 货币汇率采集api, redis+wokerman
+[currency](https://github.com/chenbool/currency_api)  | php | wokerman | 货币汇率采集api, redis+wokerman
 [wepay](https://github.com/chenbool/wepay)  | vue | wokerman |微交易系统-货币汇率采集, redis+wokerman+vue
-[facebook](https://github.com/chenbool/tp5-facebook)  | php | thinkphp5 |一个高仿Facebook站点
+[facebook](https://github.com/chenbool/tp5_facebook)  | php | thinkphp5 |一个高仿Facebook站点
 [house](https://github.com/chenbool/house)  | php | thinkphp5 | thinkphp5写的一个house，webapp
 [21point](https://github.com/chenbool/21point)  | TypeScript | layabox | 经典21点游戏源码 typeScript layabox
 [zhuawawa](https://github.com/chenbool/zhuawawa)  | TypeScript | layabox | 抓娃娃游戏源码 typeScript layabox 
