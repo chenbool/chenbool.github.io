@@ -17,12 +17,14 @@
 [selenium脚本](https://github.com/chenbool/python-selenium)  | python | selenium | Python 实现 百度贴吧 签到  QQ空间 签到  饿了么 优惠券  美团外卖 优惠券  OFO 优惠券
 [small](https://github.com/chenbool/small)  | php | | 一个轻量的mvc框架
 [fair](https://github.com/chenbool/fair)  | php |  |一个mvc框架,依靠composer加载 
-[currency](https://github.com/chenbool/currency_api)  | php | wokerman | 货币汇率采集api, redis+wokerman
-[wepay](https://github.com/chenbool/wepay)  | vue | wokerman |微交易系统-货币汇率采集, redis+wokerman+vue
+[云矿机](https://github.com/chenbool/phalcon_kuang)  | php | phalcon | phalcon框架 + redis
+[微交易](https://github.com/chenbool/phalcon_wei)  | php | phalcon | phalcon + Node.Js+mysql+redis+mogondb
+[货币汇率采](https://github.com/chenbool/currency_api)  | php | wokerman | 货币汇率采集api, redis+wokerman
+[微交易系统](https://github.com/chenbool/wepay)  | vue | wokerman |微交易系统-货币汇率采集, redis+wokerman+vue
 [facebook](https://github.com/chenbool/tp5_facebook)  | php | thinkphp5 |一个高仿Facebook站点
-[house](https://github.com/chenbool/zufang)  | php | thinkphp5 | thinkphp5写的一个house，webapp
+[租房app](https://github.com/chenbool/zufang)  | php | thinkphp5 | thinkphp5写的一个house，webapp
 [21point](https://github.com/chenbool/21point)  | TypeScript | layabox | 经典21点游戏源码 typeScript layabox
-[zhuawawa](https://github.com/chenbool/zhuawawa)  | TypeScript | layabox | 抓娃娃游戏源码 typeScript layabox 
+[抓娃娃](https://github.com/chenbool/zhuawawa)  | TypeScript | layabox | 抓娃娃游戏源码 typeScript layabox 
 [bModal](https://github.com/chenbool/bModal)  | TypeScript | layabox | 弹窗插件 typeScript  typeScript layabox 
 [php集成环境](https://github.com/chenbool/php_env)  | c# |  | php集成环境 c#  typeScript  typeScript layabox 
 
