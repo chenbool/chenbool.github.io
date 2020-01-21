@@ -14,6 +14,7 @@
 
 名称 | 语言 | 框架 | 描述
 ---|---|---|---
+[selenium脚本](https://github.com/chenbool/python-selenium)  | python | selenium | Python 实现 百度贴吧 签到  QQ空间 签到  饿了么 优惠券  美团外卖 优惠券  OFO 优惠券
 [small](https://github.com/chenbool/small)  | php | | 一个轻量的mvc框架
 [fair](https://github.com/chenbool/fair)  | php |  |一个mvc框架,依靠composer加载 
 [currency](https://github.com/chenbool/currency_api)  | php | wokerman | 货币汇率采集api, redis+wokerman
@@ -24,6 +25,7 @@
 [zhuawawa](https://github.com/chenbool/zhuawawa)  | TypeScript | layabox | 抓娃娃游戏源码 typeScript layabox 
 [bModal](https://github.com/chenbool/bModal)  | TypeScript | layabox | 弹窗插件 typeScript  typeScript layabox 
 [php集成环境](https://github.com/chenbool/php_env)  | c# |  | php集成环境 c#  typeScript  typeScript layabox 
+
 
 
 ## [更多项目](https://github.com/chenbool?tab=repositories) 
