@@ -18,6 +18,7 @@
 
 名称 | 语言 | 框架 | 描述
 ---|---|---|---
+[uniapp插件](https://ext.dcloud.net.cn/publisher?id=79647)  | vue | uniapp | uniapp插件
 [仿抖音](https://github.com/bool1993/small)  | vue | uniapp | uniapp仿抖音
 [进销存](https://gitee.com/bool_it/xenon-wms)  | php | tp5.1 | wms仓库管理系统
 [民宿管理](https://gitee.com/HyacinthTechnology_admin/Hotel)  | php | tp5.1 | 民宿管理
